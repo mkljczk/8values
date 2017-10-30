@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "Obiekty użyteczności publicznej, tj. drogi i elektryczność powinny być własnością puliczną.",
+        "question": "Obiekty użyteczności publicznej, tj. drogi i elektryczność powinny być własnością publiczną.",
         "effect": {
             "econ": 10,
             "dipl": 0,
