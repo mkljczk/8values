@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "Od każdego żądamy tyle, ile jest w stanie dać.",
+        "question": "Każdy według swoich zdolności, każdemu według jego potrzeb.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "Samo istnienie narodów jest zagrożenie dla naszej wolności.",
+        "question": "Samo istnienie państw jest zagrożenie dla naszej wolności.",
         "effect": {
             "econ": 0,
             "dipl": 0,
