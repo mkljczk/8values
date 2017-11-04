@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Publicznie finansowane badania są bardziej korzystne dla ludzkości od pozostawiania tego firmom.",
+        "question": "Publicznie finansowane badania naukowe są bardziej korzystne dla ludzkości od pozostawiania tego firmom.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "Zjednoczone Narody powinny zostać zniesione.",
+        "question": "Organizacja Narodów Zjednoczonych powinna zostać zniesiona.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Nieszkodliwe przestępstwa (tj. zażywanie narkotyków) nie powinny być przestępstwami.",
+        "question": "Niezagrażające innym przestępstwa (tj. zażywanie narkotyków) nie powinny być przestępstwami.",
         "effect": {
             "econ": 0,
             "dipl": 0,
