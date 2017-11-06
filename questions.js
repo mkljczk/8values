@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "Samo istnienie państw jest zagrożenie dla naszej wolności.",
+        "question": "Samo istnienie państw jest zagrożeniem dla naszej wolności.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -351,7 +351,7 @@ questions = [
         }
     },
     {
-        "question": "Ważne jest, aby rząd podążał za opinia większości, nawet gdy są w błędzie.",
+        "question": "Ważne jest, aby rząd podążał za opinią większości, nawet gdy są w błędzie.",
         "effect": {
             "econ": 0,
             "dipl": 0,
