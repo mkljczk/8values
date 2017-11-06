@@ -306,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "Inwigilacja przez rząd jest obowiązkowa w obecnym świecie.",
+        "question": "Inwigilacja przez rząd jest konieczna w obecnym świecie.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -378,7 +378,7 @@ questions = [
         }
     },
     {
-        "question": "Regulacje środowiskowe to podstawa.",
+        "question": "Regulacje dot. środowiska to podstawa.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -477,7 +477,7 @@ questions = [
         }
     },
     {
-        "question": "Rozumowanie jest ważniejsze od utrzymywania naszej kultury.",
+        "question": "Kierowanie się rozsądkiem jest ważniejsze od utrzymywania naszej kultury.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -603,7 +603,7 @@ questions = [
         }
     },
     {
-        "question": "Rządy powinny przejmować się obywatelami zamieszkującymi granice tak, jak obywatelami na terenie kraju.",
+        "question": "Rządy powinny przejmować się obywatelami mieszkającymi poza granicami kraju tak, jak obywatelami na terenie kraju.",
         "effect": {
             "econ": 10,
             "dipl": 10,
