@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "Wojny nie muszą dotyczyć innych państw.",
+        "question": "Państwa nie muszą tłumaczyć się z prowadzonych wojen przed innymi państwami.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -540,7 +540,7 @@ questions = [
         }
     },
     {
-        "question": "Zezwolenie na posiadanie broni powinno być dostępne tylko za przyczyną.",
+        "question": "Zezwolenie na posiadanie broni powinno być dostępne tylko z odpowiedniej przyczyny.",
         "effect": {
             "econ": 0,
             "dipl": 10,
