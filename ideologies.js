@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinizm/Maoiszm",
+        "name": "Stalinizm/Maoizm",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socializm teokratyczny",
+        "name": "Socjalizm teokratyczny",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socializm religijny",
+        "name": "Socjalizm religijny",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -108,7 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socializm rewolucyjny",
+        "name": "Socjalizm rewolucyjny",
         "stats": {
             "econ": 80,
             "dipl": 20,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socializm libertarialny​",
+        "name": "Socjalizm libertarialny​",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -270,7 +270,7 @@ ideologies = [
         }
     },
     {
-        "name": "Zachowywawczy konserwatyzm",
+        "name": "Umiarkowany konserwatyzm",
         "stats": {
             "econ": 40,
             "dipl": 40,
