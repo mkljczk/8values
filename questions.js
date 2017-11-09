@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "Odziedziczenie jest uzasadnioną przyczyną bogactwa.",
+        "question": "Dziedziczenie jest uzasadnioną przyczyną bogactwa.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "Działania militarne naszego narodu są często wymagane, aby zabezpieczyć go.",
+        "question": "Działania wojskowe naszego narodu są często wymagane by zapewnić nam bezpieczeństwo.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -171,7 +171,7 @@ questions = [
         }
     },
     {
-        "question": "Zjednoczony rząd na świecie byłby korzystny dla ludzkości.",
+        "question": "Zjednoczony rząd światowy byłby korzystny dla ludzkości.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "Państwa nie muszą tłumaczyć się z prowadzonych wojen przed innymi państwami.",
+        "question": "Państwa nie muszą tłumaczyć się przed innymi państwami z prowadzonych przez siebie wojen.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -234,7 +234,7 @@ questions = [
         }
     },
     {
-        "question": "Rządy powinny być odpowiedzialne za ludzkość.",
+        "question": "Rządy powinny być odpowiedzialne przed społecznością międzynarodową.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -261,7 +261,7 @@ questions = [
         }
     },
     {
-        "question": "Wartości mojego narodu powinny być tak rozprzestrzeniane, jak to możliwe.",
+        "question": "Wartości mojego narodu powinny być rozprzestrzeniane tak, jak to tylko możliwe.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -324,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "Niezależne od poglądów politycznych, należy zostać w swoim państwie.",
+        "question": "Niezależne od poglądów politycznych, należy stać po stronie swojego państwa.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -333,7 +333,7 @@ questions = [
         }
     },
     {
-        "question": "Każdy autorytet moze zostać zakwestionowany.",
+        "question": "Każdy autorytet może zostać zakwestionowany.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -360,7 +360,7 @@ questions = [
         }
     },
     {
-        "question": "Im silniejsza władza, tym lepiej.",
+        "question": "Im silniejsi przywódcy, tym lepiej.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -387,7 +387,7 @@ questions = [
         }
     },
     {
-        "question": "Automatyzacja, nauka i technologia uczyni świat lepszym.",
+        "question": "Automatyzacja, nauka i technologia uczynią świat lepszym.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -414,7 +414,7 @@ questions = [
         }
     },
     {
-        "question": "Religie powinny mieć wpływ na rządy.",
+        "question": "Religia powinna odgrywać role w rządzie.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "Kościoły powinny być podatkowane tak, jak inne instytucje.",
+        "question": "Kościoły powinny być opodatkowane tak, jak inne instytucje.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -441,7 +441,7 @@ questions = [
         }
     },
     {
-        "question": "Ważne jest, abyśmy wspólnie pracowali, aby zapobiec zmianom w klimacie.",
+        "question": "Ważne jest, abyśmy wspólnie pracowali, by zwalczyć zmiany w klimacie.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -468,7 +468,7 @@ questions = [
         }
     },
     {
-        "question": "Ważne jest, aby myśleć w dalszą przyszłość, poza okres naszego życia.",
+        "question": "Ważne jest, by myśleć długoterminowo, wykraczając poza okres naszego życia.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -495,7 +495,7 @@ questions = [
         }
     },
     {
-        "question": "Małżeństwa jednopłciowe powinny być dozwolone.",
+        "question": "Małżeństwa osób tej samej płci powinny być dozwolone.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -504,7 +504,7 @@ questions = [
         }
     },
     {
-        "question": "Żadna kultura nie jest wyższa od innej.",
+        "question": "Żadna kultura nie może być uważana za lepszą od innej.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -513,7 +513,7 @@ questions = [
         }
     },
     {
-        "question": "Seks przedmałżeński jest niemoralny.",
+        "question": "Seks pozamałżeński jest niemoralny.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -522,7 +522,7 @@ questions = [
         }
     },
     {
-        "question": "Jeżeli zgodzimy się na przyjęcie imigrantów, ważne jest, aby zasymilowali się w naszej kulturze.",
+        "question": "Jeżeli zgodzimy się na przyjęcie migrantów, ważne jest, aby zasymilowali się w naszej kulturze.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -531,7 +531,7 @@ questions = [
         }
     },
     {
-        "question": "Aborcja powinna być zakazana w większości przypadków.",
+        "question": "Aborcja powinna być zakazana w większości lub we wszystkich przypadkach.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -549,7 +549,7 @@ questions = [
         }
     },
     {
-        "question": "Popieram uniwersalną, jednolicie płatną służbę zdrowia.",
+        "question": "Popieram uniwersalną i opłacaną z podatków służbę zdrowia.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -585,7 +585,7 @@ questions = [
         }
     },
     {
-        "question": "Genetyczne modyfikacje są obowiązkiem dla dobra, nawet dla ludzi.",
+        "question": "Modyfikacje genetyczne są dobre i pożądane, nawet gdy dokonywane są na ludziach.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -594,7 +594,7 @@ questions = [
         }
     },
     {
-        "question": "Powinniśmy otworzyć nasze granice na imigrantów.",
+        "question": "Powinniśmy otworzyć nasze granice dla imigrantów.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -603,7 +603,7 @@ questions = [
         }
     },
     {
-        "question": "Rządy powinny przejmować się obywatelami mieszkającymi poza granicami kraju tak, jak obywatelami na terenie kraju.",
+        "question": "Rządy powinny mieć na uwadze potrzeby wszystkich mieszkańców kraju, nie tylko swoich obywateli.",
         "effect": {
             "econ": 10,
             "dipl": 10,
