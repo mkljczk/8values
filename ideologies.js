@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarianizm komunistyczny",
+        "name": "Komunizm wolnościowy",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socjalizm libertarialny​",
+        "name": "Wolnościowy socjalizm​",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -162,7 +162,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberalizm społeczny",
+        "name": "Socjalliberalizm",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-egoizm",
+        "name": "Anarchizm indywidualistyczny",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarchizm rynkowy",
+        "name": "Anarchizm wolnorynkowy",
         "stats": {
             "econ": 20,
             "dipl": 50,
