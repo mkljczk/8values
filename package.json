@@ -1,0 +1,22 @@
+{
+    "name": "8values.mkljczk.pl",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "m4sk1n",
+    "description": "8values political test",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/m4sk1n/8values.git"
+    },
+    "engines": {
+        "node": ">=6.00"
+    },
+    "scripts": {
+        "build": "mkdir docs && cp -r *.js *.png *.svg *.html *.css locales value_images docs/ && uglifycss ./docs/style.css --output ./docs/style.css && html-minifier --collapse-whitespace --keep-closing-slash --file-ext html --remove-comments --minify-css true --minify-js true --input-dir docs --output-dir docs"
+    },
+    "dependencies": {
+        "html-minifier": "^3.5.3",
+        "uglifycss": "0.0.27"
+    }
+}

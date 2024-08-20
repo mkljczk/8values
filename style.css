@@ -2,6 +2,7 @@ html {
     background-color: #bbbbbb;
     padding: 0px;
 }
+
 body {
     width: 80%;
     min-height: calc(100vh - 4em);
@@ -13,6 +14,7 @@ body {
     border-right-style: solid;
     border-width: 20px;
 }
+
 p {
     color: #444444;
     font-family: 'Roboto', sans-serif;
@@ -20,14 +22,16 @@ p {
     line-height: 1;
     margin: 4pt;
 }
+
 p.value-description {
     text-indent: -16pt;
     margin-left: 20pt;
 }
+
 p.question {
     margin: 16pt auto;
     color: #333333;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
     font-weight: normal;
     width: 70%;
     min-width: 500pt;
@@ -40,47 +44,63 @@ p.question {
     justify-content: center;
     align-items: center;
     text-align: center;
-
 }
+
+p.privacy-policy {
+    margin: 16pt auto;
+    color: #333333;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
+    font-weight: normal;
+    width: 80%;
+    min-width: 500pt;
+    min-height: 144pt;
+    background-color: #eeeeee;
+    padding: 16pt;
+    border-radius: 16pt;
+    font-size: 20pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
 h1 {
     color: #222222;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
     font-size: 72pt;
     text-align: center;
     line-height: 72pt;
     margin-top: 0pt;
     margin-bottom: 0pt;
 }
+
 h2 {
     color: #333333;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
     font-size: 36pt;
     line-height: 36pt;
     margin-top: 12pt;
     margin-bottom: 0pt;
 }
+
 li {
     font-size: 16pt;
     text-indent: 16pt;
 }
+
 a {
     font-family: inherit;
 }
-img.center {
-    display: block;
-    margin: 1em auto;
-    width: 50%;
-    min-width: 500pt;
-}
+
 .button {
     background-color: #2196f3;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
     border: none;
     border-radius: 8pt;
     color: white;
     padding: 8pt;
     width: 50%;
-    min-width: 500pt;
+    min-width: fit-content;
     text-align: center;
     text-decoration: none;
     display: block;
@@ -88,15 +108,17 @@ img.center {
     margin: -2px auto;
     cursor: pointer;
 }
+
 .small_button, .small_button_off {
     background-color: #333;
-    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
     border: none;
     border-radius: 8pt;
     color: white;
     padding: 8pt;
     width: 10%;
-    min-width: 100pt;
+    min-width: fit-content;
     text-align: center;
     text-decoration: none;
     display: block;
@@ -104,6 +126,12 @@ img.center {
     margin: -2px auto;
     cursor: pointer;
 }
+
+.small_button_alert {
+    background-color: #f44336;
+    width: initial;
+}
+
 .small_button_off {
     background-color: #ddd;
     color: #888;
@@ -111,12 +139,31 @@ img.center {
     cursor: not-allowed;
     margin: -4px auto;
 }
+
+.lang_button {
+    background-color: #333;
+    width: initial;
+    min-width: initial;
+    display: initial;
+    font-size: 9pt;
+}
+
+.theme_button {
+    background-color: #333;
+    width: initial;
+    min-width: initial;
+    display: initial;
+    font-size: 9pt;
+    float: right;
+}
+
 div.axis {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 div.bar {
     height: 36pt;
     line-height: 36pt;
@@ -132,56 +179,99 @@ div.bar {
     display: block;
     width: 50%;
 }
+
 div.text-wrapper {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
     font-size: 36pt;
     line-height: 36pt;
     color: #222222;
     display: inline-block;
 }
+
 div.equality {
     background-color: #f44336;
     text-align: left;
     border-right-style: solid;
 }
+
 div.wealth {
     background-color: #00897b;
     text-align: right;
     border-left-style: solid;
 }
+
 div.liberty {
     background-color: #ffeb3b;
     text-align: left;
     border-right-style: solid;
 }
+
 div.authority {
     background-color: #3f51b5;
     text-align: right;
     border-left-style: solid;
 }
+
 div.peace {
     background-color: #03a9f4;
     text-align: right;
     border-left-style: solid;
 }
+
 div.might {
     background-color: #ff9800;
     text-align: left;
     border-right-style: solid;
 }
+
 div.progress {
     background-color: #9c27b0;
     text-align: right;
     border-left-style: solid;
 }
+
 div.tradition {
     background-color: #8bc34a;
     text-align: left;
     border-right-style: solid;
 }
+
+b.equality {
+    color: #d32f2f;
+}
+
+b.wealth {
+    color: #00796b;
+}
+
+b.might {
+    color: #f57c00;
+}
+
+b.peace {
+    color: #0288d1;
+}
+
+b.liberty {
+    color: #fbc02d;
+}
+
+b.authority {
+    color: #303f9f;
+}
+
+b.tradition {
+    color: #689f38;
+}
+
+b.progress {
+    color: #7b1fa2;
+}
+
 span.weight-300 {
     font-weight: 300;
 }
+
 canvas {
     border-color: #444444;
     border-style: solid;
@@ -191,4 +281,54 @@ canvas {
     margin: 8pt;
     margin-left: auto;
     margin-right: auto;
+}
+
+figure {
+    position: relative;
+    margin: 0;
+}
+
+figure.center {
+    display: block;
+    margin: 1em auto;
+    width: 50%;
+    min-width: 500pt;
+}
+
+figure img {
+    width: 100%;
+}
+
+#values {
+    background: white;
+}
+
+#values figure, #values p {
+    width: 23.5%;
+    min-width: 100pt;
+    float: left;
+    margin: 5px;
+}
+
+#values p {
+    text-align: center;
+    font-family: Montserrat, Roboto;
+    font-size: 150%;
+    color: black;
+}
+
+figcaption {
+    position: absolute;
+    top: 75%;
+    text-align: center;
+    width: 100%;
+    min-width: 100pt;
+    font-family: Montserrat, Roboto;
+    font-size: 150%;
+    color: white;
+}
+
+figcaption.small {
+    width: 100%;
+    font-size: 14pt;
 }

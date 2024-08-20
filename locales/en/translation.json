@@ -1,0 +1,48 @@
+{
+    "title": "8values Quiz",
+    "title_results": "8values Results",
+
+    "start": "Click here to start!",
+    "faq_whatis": "What is 8values?",
+    "faq_whatis_answer": "8values is, in essence, a political quiz that attempts to assign percentages for eight different political values. You will be presented by a statement, and then you will answer with your opinion on the statement, from <b>Strongly Agree</b> to <b>Strongly Disagree</b>, with each answer slightly affecting your scores. At the end of the quiz, your answers will be compared to the maximum possible for each value, thus giving you a percentage. Answer honestly!<br />There are 70 questions in the test.",
+    "faq_values": "What are the eight values?",
+    "faq_values_answer": "There are four independent axes - Economic, Diplomatic, State, and Society - and each has two opposing values assigned to them. They are:",
+    "faq_match": "What's the “Closest Match” mean at the bottom of the results?",
+    "faq_match_answer": "In addition to matching you to the eight values, the quiz also attempts to match you to a political ideology. This is a work in progress and is much less accurate than the values and axes, so don't take it too seriously. If you disagree with your assigned ideology, send us an email at eightvalues@gmail.com with your scores, matched ideology, and preferred ideology, and we'll look into adjusting the system. Thanks!",
+    "faq_scores": "I don't like my scores!",
+    "faq_scores_answer": "¯\\_(ツ)_/¯<br/>If you have any suggestions or constructive criticism, feel free to send it to <a href=\"mailto:8values@mkljczk.pl\">8values@mkljczk.pl</a> or open an issue on <a href=\"https://github.com/mkljczk/8values\">GitHub</a>",
+
+    "authors": "Authors",
+    "authors_answer": "This version of 8values (forked from <a href=\"https://github.com/8values/8values.github.io\">original</a>) is maintained by <a href=\"https://mkljczk.pl\">mkljczk</a>.<br>Thanks to <a href=\"https://github.com/8values/8values.github.io/graphs/contributors\">all contributors</a> from original 8values, <a href=\"https://github.com/gervasiocaj\">gervasiocaj</a> for localization support, <a href=\"https://github.com/t2n\">t2n</a> for progress saving and <a href=\"https://github.com/brmbrmcar\">brmbrmcar</a> for improving scores calculation.",
+    "about_me": "From maintainer of this fork",
+    "about_me_answer": "It started as Polish translation I made because some people asked me to do it. You can find me in the <a href=\"https://pl.fediverse.pl/@mkljczk\">Fediverse</a> or on <a href=\"https://twitter.com/mkljczk\">Twitter</a>",
+
+    "equality": "<b class=\"equality\">Equality</b> (Economic)<br/>Those with higher Equality scores believe the economy should distribute value evenly among the populace. They tend to support progressive tax codes, social programs, and at high values, socialism.",
+    "wealth": "<b class=\"wealth\">Markets</b> (Economic)<br/>Those with higher Market scores believe the economy should be focused on rapid growth. They tend to support lower taxes, privatization, deregulation, and at high values, laissez-faire capitalism.",
+    "might": "<b class=\"might\">Nation</b> (Diplomatic)<br/>Those with higher Nation scores are patriotic and nationalist. They often believe in an aggressive foreign policy, valuing the military, strength, sovereignty, and at high values, territorial expansion.",
+    "peace": "<b class=\"peace\">Globe</b> (Diplomatic)<br/>Those with higher Globe scores are cosmopolitan and globalist. They often believe in a peaceful foreign policy, emphasizing diplomacy, cooperation, integration, and at high values, a world government.",
+    "liberty": "<b class=\"liberty\">Liberty</b> (State)<br/>Those with higher Liberty scores believe in strong civil liberties. They tend to support democracy and oppose state intervention in personal lives. Note that this refers to civil liberties, not economic liberties.",
+    "authority": "<b class=\"authority\">Authority</b> (State)<br/>Those with higher Authority scores believe in strong state power. They tend to support state intervention in personal lives, government surveillance, and at high values, censorship or autocracy.",
+    "tradition": "<b class=\"tradition\">Tradition</b> (Society)<br/>Those with higher Tradition scores believe in traditional values and strict adherence to a moral code. Though not always, they are usually religious, and support the status quo or the status quo ante.",
+    "progress": "<b class=\"progress\">Progress</b> (Society)<br/>Those with higher Progress scores believe in social change and rationality. Though not always, they are usually secular or atheist, and support environmental action and scientific or technological research.",
+
+    "results": "Results",
+    "economic_axis": "Economic Axis: ",
+    "diplomatic_axis": "Diplomatic Axis: ",
+    "civic_axis": "Civic Axis: ",
+    "societal_axis": "Societal Axis: ",
+    "closest_match": "Closest Match: ",
+    "match_desc": "Ideological matching is a work in progress, and is much less accurate than the values and axes.<br/>You can send these results by copying and pasting the URL at the top of the page or using the image below. Think your matched ideology was wrong? Want to help us calibrate the test? Send the results along with your political ideology to us at <a href=\"mailto:8values@mkljczk.pl\">8values@mkljczk.pl</a>, or send us any comments, questions, or criticism.",
+
+    "download": "Download",
+
+    "you_here": "If you are already there…",
+    "you_here_desc": "Feel free to share your results with friends on your favourite social media. You can also follow <a href=\"https://101010.pl/@m4sk1n\">me</a> on the free, decentralized and censorship-resistant Mastodon social network… ;)",
+
+    "answer_later": "Answer later",
+    "back": "Back",
+    "start_over": "Start over",
+    "switch_theme": "Switch theme",
+
+    "confirm": "Are you sure you want to reset your progress?"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Test 8values",
+    "title_results": "Wyniki testu 8values",
+
+    "start": "Naciśnij, aby rozpocząć!",
+    "faq_whatis": "Czym jest 8values?",
+    "faq_whatis_answer": "8values jest testem politycznym, który stara się przyporządkować procentowo Twoje poglądy do ośmiu różnych wartości politycznych. Zostaniesz zapoznany/a z opinią, do której musisz ustosunkować się, od <b>W pełni zgadzam się</b> do <b>Zdecydowanie nie zgadzam się</b>, a każda odpowiedź ma wpływ na wynik. Na końcu, Twoje wartości zostaną porównane z maksymalnymi dla każdej wartości, zwracając wartość procentową. Odpowiadaj szczerze!<br/>Test składa się z 70 pytań.",
+    "faq_values": "Co oznaczają te 8 wartości?",
+    "faq_values_answer": "Są tu 4 niezależne osie – ekonomiczna, dyplomatyczna, narodowa i społeczna – do każdej przypisane są dwie przeciwstawne wartości:",
+    "faq_match": "Co oznacza „Najbliższe dopasowanie”?",
+    "faq_match_answer": "Oprócz przypisywania do ośmiu wartości, test próbuje przyporządkować Cię do ideologii. Nie jest to tak dokładne, wciąż nad tym pracujemy. Jeżeli nie zgadzasz się z wynikiem, skontaktuj się pod adresem eightvalues@gmail.com (w języku angielskim), poinformuj o swoich wynikach, przypisanej ideologii, pasującej Ci ideologii, a my spróbujemy poprawić działanie naszego algorytmu. Dziękujemy!",
+    "faq_scores": "Nie zgadzam się z wynikiem!",
+    "faq_scores_answer": "¯\\_(ツ)_/¯<br/>Jeżeli masz jakieś sugestie, lub chcesz zostawić konstruktywną krytykę, skontaktuj się pod adresem <a href=\"mailto:8values@mkljczk.pl\">8values@mkljczk.pl</a>, lub utwórz zgłoszenie na <a href=\"https://github.com/mkljczk/8values\">GitHubie</a>.",
+
+    "authors": "Autorzy",
+    "authors_answer": "Tłumaczenie autorstwa <a href=\"https://mkljczk.pl\">mkljczk</a>.<br/><br/>Za wkład dziękuję następującym osobom (alfabetycznie):<br/>Angela Wawrzyk<br/>Anna Wachnowicz<br/><a href=\"http://janmolak.com/\">Jan Molak</a><br/>Kajetan Herkt<br/><a href=\"http://blog.my-poi.pl\">Maciej Tokarz</a><br/>Marcel Kowalczyk<br/>Marcin Boruciński<br/>Mateusz Kuć<br/>Szymon Zak",
+    "about_me": "Od autora tłumaczenia",
+    "about_me_answer": "Dokonałem tego tłumaczenia w wolnym czasie, na prośbę kilku osób. Oprócz tego, zajmuję się tłumaczeniem pewnych projektów, takich jak zdecentralizowane <a href=\"https://fediverse.pl\">Fediwersum</a> (na które serdecznie Was zapraszam, <a href=\"https://pl.fediverse.pl/@mkljczk\">tutaj moje konto</a>) i inne oprogramowanie open source. Możesz też <a href=\"https://twitter.com/mkljczk\">zaobserwować mnie na Twitterze</a>. ;)",
+
+    "equality": "<b class=\"equality\">Równość</b> (Ekonomia)<br/>Osoby o wyższych wynikach w kategorii równości wierzą, że ekonomia powinna równo dostarczać dobra dla całej ludzkości. Popierają oni progresywne podatki, programy socjalne i (przy wyższych wartościach) socjalizm.",
+    "wealth": "<b class=\"wealth\">Rynek</b> (Ekonomia)<br/>Osoby o wyższym wyniku wierzą, że ekonomia powinna szybko rozwijać się. Wspierają oni obniżanie podatków, prywatyzację, deregulację i (przy wyższych wartościach) leseferystyczny kapitalizm.",
+    "might": "<b class=\"might\">Naród</b> (Dyplomacja)<br/>Osoby te są patriotami i narodowcami. Wierzą w dobro agresywnej polityki zagranicznej, wartość wojsk, siły, suwerenności i (przy wyższych wartościach) ekspansji terytorialnej.",
+    "peace": "<b class=\"peace\">Glob</b> (Dyplomacja)<br/>Są to kosmopolici i globaliści. Wierzą w dobro pokojowej polityki zagranicznej, podkreślenie dyplomacji, współpracy, integracji i (przy wyższych wartościach) ogólnoświatowy rząd.",
+    "liberty": "<b class=\"liberty\">Wolność</b> (Państwo)<br/>Osoby te wierzą w silną wolność obywateli. Wspierają oni demokrację i sprzeciwiają się ingerencji państwa w życie. Dotyczy do wolności obywatelskich, nie ekonomicznych.",
+    "authority": "<b class=\"authority\">Autorytaryzm</b> (Państwo)<br/>Wierzą oni w moc silnego państwa. Popierają interwencję państw w życie codzienne, suwerenność rządu i (przy wyższych wartościach) cenzurę i autokrację.",
+    "tradition": "<b class=\"tradition\">Tradycja</b> (Społeczeństwo)<br/>Wspierają oni tradycyjne wartości i kierowanie się moralnością. Są oni zwykle, choć nie zawsze, religijni i popierają zasadę status quo, bądź status quo ante.",
+    "progress": "<b class=\"progress\">Postęp</b> (Społeczeństwo)<br/>Wierzą w dobry wpływ zmian społecznych i racjonalizm. Choć nie zawsze, często są osobami świeckimi lub ateistami, wspierają operacje środowiskowe i badania naukowe lub technologiczne.",
+
+    "results": "Wyniki",
+    "economic_axis": "Oś ekonomiczna: ",
+    "diplomatic_axis": "Oś dyplomatyczna: ",
+    "civic_axis": "Oś cywilna: ",
+    "societal_axis": "Oś społeczna: ",
+    "closest_match": "Najbliższe dopasowanie: ",
+    "match_desc": "Nie jest to w pełni dokładne. Wciąż nad tym pracujemy, nie jest to tak dokładne odzwierciedlenie poglądów, jak przedstawienie na 4 osiach.<br/>Możesz podzielić się wynikami kopiując adres poniższej strony, lub korzystając z poniższej grafiki. Uważasz, że dopasowanie nie pasuje do Twoich poglądów? Chcesz pomóc nam skalibrować test? Napisz maila z uwagami, wraz z opisem poglądów na adres <a href=\"mailto:eightvalues@gmail.com\">eightvalues@gmail.com</a> (w języku angielskim). Właściwym miejscem na opinie dotyczące tłumaczenia jest adres <a href=\"mailto:8values@mkljczk.pl\">8values@mkljczk.pl</a>.",
+
+    "download": "Pobierz",
+
+    "you_here": "A skoro tu już jesteś…",
+    "you_here_desc": "Zapraszam do podzielenia się wynikiem testu na ulubionych portalach społecznościowych. Możesz też zaobserwować <a href=\"https://twitter.com/mkljczk\">mnie</a> na Twitterze. Nie musisz… ;)",
+
+    "answer_later": "Odpowiedz później",
+    "back": "Wróć",
+    "start_over": "Rozpocznij od nowa",
+    "switch_theme": "Przełącz motyw",
+
+    "confirm": "Czy na pewno chcesz utracić cały postęp i zacząć od nowa?"
+}
