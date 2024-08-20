@@ -1,0 +1,40 @@
+{
+  "name": "Polskie 8values",
+  "short_name": "Polskie 8values",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#bbbbbb",
+  "theme_color": "#dddddd",
+  "description": "Oryginalne polskie tłumaczenie testu 8values.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Strona główna",
+      "url": "/"
+    },
+    {
+      "name": "Rozpocznij test",
+      "url": "/instructions"
+    }
+  ],
+  "categories": [
+    "education",
+    "games",
+    "politics"
+  ],
+  "orientation": "any",
+  "launch_handler": {
+    "client_mode": "auto"
+  }
+}

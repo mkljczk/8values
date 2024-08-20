@@ -1,6 +1,6 @@
 <head>
     <link href='style.css' rel='stylesheet' type='text/css'>
-    <title data-i18n="page_title" data-ns="instructions">8values Quiz</title>
+    <title data-i18n="page_title" data-ns="instructions">Privacy Policy | 8values Quiz</title>
     <link rel="icon" type="x-icon" href="icon.png">
     <link rel="shortcut icon" type="x-icon" href="icon.png">
     <meta charset="utf-8">
@@ -10,13 +10,11 @@
 <body>
     <button class="lang_button small_button" onclick="i18next.changeLanguage('pl'); location.reload();">Polski</button>
     <button class="lang_button small_button" onclick="i18next.changeLanguage('en'); location.reload();">English</button>
-    <button data-i18n="switch_theme" data-ns="instructions" class="theme_button small_button" onclick="switchTheme();"></button>
+    <button data-i18n="switch_theme" data-ns="privacy_policy" class="theme_button small_button" onclick="switchTheme();"></button>
     <h1>8values</h1>
     <hr>
-    <h2 data-i18n="title" data-ns="instructions" style="text-align:center;"></h2>
-    <p data-i18n="description" data-ns="instructions" class="question"></p>
-    <button data-i18n="confirm" data-ns="instructions" class="button" onclick="localStorage.removeItem('state'); location.href='quiz.html';" style="background-color: #2196f3;"></button> <br>
-    <button data-i18n="cancel" data-ns="instructions" class="button" onclick="location.href='index.html';" style="background-color: #f44336;"></button> <br>
+    <h2 data-i18n="title" data-ns="privacy_policy" style="text-align:center;"></h2>
+    <p data-i18n="description" data-ns="privacy_policy" class="privacy-policy"></p>
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
     <script src="https://unpkg.com/i18next@8.0.0/i18next.min.js"></script>
@@ -26,7 +24,7 @@
     <script type="application/javascript" src="themeswitcher.js"></script>
 
     <script type="text/javascript">
-        i18n_load_ns("instructions")
+        i18n_load_ns("privacy_policy")
     </script>
     <script type="text/javascript">
         themeLoad()

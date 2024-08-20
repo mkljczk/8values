@@ -1,2 +1,5 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Might, Liberty, Tradition, Wealth, Peace, Authority, and Progress.
+# 8values.mkljczk.pl
+The 8values Political Quiz measures individuals’ political values, including Equality, Might, Liberty, Tradition, Wealth, Peace, Authority, and Progress. This version is improved by some ideologies matching fixes, adding dark mode, progress saving (by [t2n](https://github.com/t2n)), improved scores calculation (by [brmbrmcar](https://github.com/brmbrmcar)) and localization support (by [gervasiocaj](https://github.com/gervasiocaj)). It is also the first publicly available 8values modification including Polish translation. I’ll try to accept good quality PRs and I’m waiting for more translations.
+
+## For translators
+Translators can add their own social media link or small info about themselves in `about_me`, `about_me_answer` and `you_here_desc`, but (please) don’t remove my Mastodon profile from `you_here_desc`. Thanks!
